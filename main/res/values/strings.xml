@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chiec non ky dieu</string>
+    <string name="button_main_play">Chơi ngay</string>
+    <string name="text_turn">3</string>
+    <string name="text_score">5000</string>
+    <string name="text_turn_label">Số lượt còn lại:</string>
+    <string name="button_play_click">Quay</string>
+    <string name="text_1">Nhân đôi điểm</string>
+    <string name="text_2">Mất lượt</string>
+    <string name="text_3">May mắn</string>
+    <string name="text_4">Mất điểm</string>
+    <string name="text_5">Thêm lượt</string>
+    <string name="text_6">Chia đôi</string>
+    <string name="text_3_noti">Bạn nhận được 2000 điểm</string>
+</resources>
